@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @gzh66
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in surf the internet & encryption adn web3
+- - 🌱 I’m currently learning encryption adn web3
+- 💞️ I’m looking to collaborate on dao and  web3
+- 📫 How to reach me: https://twitter.com/kunghu666
 
-<!---
-gzh66/gzh66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
